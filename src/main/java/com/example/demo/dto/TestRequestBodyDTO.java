@@ -6,5 +6,4 @@ import lombok.Data;
 public class TestRequestBodyDTO {
 	private int id;
 	private String message;
-	//test
 }
