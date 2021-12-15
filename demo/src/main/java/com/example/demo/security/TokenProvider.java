@@ -1,5 +1,6 @@
 package com.example.demo.security;
 
+import java.nio.charset.Charset;
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
 import java.util.Date;
